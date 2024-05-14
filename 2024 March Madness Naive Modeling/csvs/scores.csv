@@ -1,0 +1,64 @@
+,game_id,game_date,team_id,team_display_name,opponent_team_id,opponent_team_name,opponent_team_display_name,team_score,opponent_team_score,TeamID,TeamName,opponent_TeamID,opponent_TeamName
+1,401638645,4/8/24,2509,Purdue Boilermakers,41,Huskies,UConn Huskies,60,75,1345,Purdue,1163,Connecticut
+2,401638644,4/6/24,333,Alabama Crimson Tide,41,Huskies,UConn Huskies,72,86,1104,Alabama,1163,Connecticut
+3,401638643,4/6/24,152,NC State Wolfpack,2509,Boilermakers,Purdue Boilermakers,50,63,1301,NC State,1345,Purdue
+4,401638641,3/31/24,152,NC State Wolfpack,150,Blue Devils,Duke Blue Devils,76,64,1301,NC State,1181,Duke
+5,401638642,3/31/24,2633,Tennessee Volunteers,2509,Boilermakers,Purdue Boilermakers,66,72,1397,Tennessee,1345,Purdue
+6,401638640,3/30/24,228,Clemson Tigers,333,Crimson Tide,Alabama Crimson Tide,82,89,1155,Clemson,1104,Alabama
+7,401638639,3/30/24,356,Illinois Fighting Illini,41,Huskies,UConn Huskies,52,77,1228,Illinois,1163,Connecticut
+8,401638636,3/29/24,156,Creighton Bluejays,2633,Volunteers,Tennessee Volunteers,75,82,1166,Creighton,1397,Tennessee
+9,401638638,3/29/24,150,Duke Blue Devils,248,Cougars,Houston Cougars,54,51,1181,Duke,1222,Houston
+10,401638635,3/29/24,2250,Gonzaga Bulldogs,2509,Boilermakers,Purdue Boilermakers,68,80,1211,Gonzaga,1345,Purdue
+11,401638637,3/29/24,152,NC State Wolfpack,269,Golden Eagles,Marquette Golden Eagles,67,58,1301,NC State,1266,Marquette
+12,401638634,3/28/24,356,Illinois Fighting Illini,66,Cyclones,Iowa State Cyclones,72,69,1228,Illinois,1235,Iowa St
+13,401638632,3/28/24,333,Alabama Crimson Tide,153,Tar Heels,North Carolina Tar Heels,89,87,1104,Alabama,1314,North Carolina
+14,401638633,3/28/24,21,San Diego State Aztecs,41,Huskies,UConn Huskies,52,82,1361,San Diego St,1163,Connecticut
+15,401638631,3/28/24,228,Clemson Tigers,12,Wildcats,Arizona Wildcats,77,72,1155,Clemson,1112,Arizona
+16,401638629,3/24/24,43,Yale Bulldogs,21,Aztecs,San Diego State Aztecs,57,85,1228,Illinois,1361,San Diego St
+17,401638626,3/24/24,245,Texas A&M Aggies,248,Cougars,Houston Cougars,95,100,1401,Texas A&M,1222,Houston
+18,401638630,3/24/24,77,Northwestern Wildcats,41,Huskies,UConn Huskies,58,75,1321,Northwestern,1163,Connecticut
+19,401638623,3/24/24,2253,Grand Canyon Lopes,333,Crimson Tide,Alabama Crimson Tide,61,72,1213,Grand Canyon,1104,Alabama
+20,401638624,3/24/24,228,Clemson Tigers,239,Bears,Baylor Bears,72,64,1155,Clemson,1124,Baylor
+21,401638627,3/24/24,256,James Madison Dukes,150,Blue Devils,Duke Blue Devils,55,93,1241,James Madison,1181,Duke
+22,401638628,3/24/24,328,Utah State Aggies,2509,Boilermakers,Purdue Boilermakers,67,106,1429,Utah St,1345,Purdue
+23,401638625,3/24/24,38,Colorado Buffaloes,269,Golden Eagles,Marquette Golden Eagles,77,81,1160,Colorado,1266,Marquette
+24,401638618,3/23/24,2483,Oregon Ducks,156,Bluejays,Creighton Bluejays,73,86,1332,Oregon,1166,Creighton
+25,401638615,3/23/24,2184,Duquesne Dukes,356,Fighting Illini,Illinois Fighting Illini,63,89,1182,Duquesne,1228,Illinois
+26,401638619,3/23/24,251,Texas Longhorns,2633,Volunteers,Tennessee Volunteers,58,62,1400,Texas A&M,1397,Tennessee
+27,401638620,3/23/24,2473,Oakland Golden Grizzlies,152,Wolfpack,NC State Wolfpack,73,79,1324,Oakland,1301,NC State
+28,401638616,3/23/24,265,Washington State Cougars,66,Cyclones,Iowa State Cyclones,56,67,1450,Washington St,1235,Iowa St
+29,401638622,3/23/24,127,Michigan State Spartans,153,Tar Heels,North Carolina Tar Heels,69,85,1277,Michigan St,1314,North Carolina
+30,401638617,3/23/24,2250,Gonzaga Bulldogs,2305,Jayhawks,Kansas Jayhawks,89,68,1211,Gonzaga,1242,Kansas
+31,401638621,3/23/24,2168,Dayton Flyers,12,Wildcats,Arizona Wildcats,68,78,1173,Dayton,1112,Arizona
+32,401638605,3/22/24,2253,Grand Canyon Lopes,2608,Gaels,Saint Mary's Gaels,75,66,1213,Grand Canyon,1388,St Mary's CA
+33,401638606,3/22/24,2628,TCU Horned Frogs,328,Aggies,Utah State Aggies,72,88,1395,TCU,1429,Utah St
+34,401638610,3/22/24,256,James Madison Dukes,275,Badgers,Wisconsin Badgers,72,61,1241,James Madison,1458,Wisconsin
+35,401638600,3/22/24,2344,Longwood Lancers,248,Cougars,Houston Cougars,46,86,1255,Longwood,1222,Houston
+36,401638604,3/22/24,232,Charleston Cougars,333,Crimson Tide,Alabama Crimson Tide,96,109,1158,Col Charleston,1104,Alabama
+37,401638601,3/22/24,2755,Grambling Tigers,2509,Boilermakers,Purdue Boilermakers,50,78,1212,Grambling,1345,Purdue
+38,401638609,3/22/24,261,Vermont Catamounts,150,Blue Devils,Duke Blue Devils,47,64,1436,Vermont,1181,Duke
+39,401638611,3/22/24,245,Texas A&M Aggies,158,Cornhuskers,Nebraska Cornhuskers,98,83,1401,Texas A&M,1304,Nebraska
+40,401638608,3/22/24,38,Colorado Buffaloes,57,Gators,Florida Gators,102,100,1160,Colorado,1196,Florida
+41,401638612,3/22/24,43,Yale Bulldogs,2,Tigers,Auburn Tigers,78,76,1463,Yale,1120,Auburn
+42,401638599,3/22/24,56,Stetson Hatters,41,Huskies,UConn Huskies,52,91,1391,Stetson,1163,Connecticut
+43,401638603,3/22/24,167,New Mexico Lobos,228,Tigers,Clemson Tigers,56,77,1307,New Mexico,1155,Clemson
+44,401638607,3/22/24,98,Western Kentucky Hilltoppers,269,Golden Eagles,Marquette Golden Eagles,69,87,1443,WKU,1266,Marquette
+45,401638613,3/22/24,5,UAB Blazers,21,Aztecs,San Diego State Aztecs,65,69,1412,UAB,1361,San Diego St
+46,401638602,3/22/24,2142,Colgate Raiders,239,Bears,Baylor Bears,67,92,1159,Colgate,1124,Baylor
+47,401638614,3/22/24,77,Northwestern Wildcats,2226,Owls,Florida Atlantic Owls,77,65,1321,Northwestern,1194,FL Atlantic
+48,401638591,3/21/24,2535,Samford Bulldogs,2305,Jayhawks,Kansas Jayhawks,89,93,1359,Samford,1242,Kansas
+49,401638596,3/21/24,2181,Drake Bulldogs,265,Cougars,Washington State Cougars,61,66,1179,Drake,1450,Washington St
+50,401638594,3/21/24,152,NC State Wolfpack,2641,Red Raiders,Texas Tech Red Raiders,80,67,1301,NC State,1403,Texas Tech
+51,401638587,3/21/24,2612,Saint Peter's Peacocks,2633,Volunteers,Tennessee Volunteers,49,83,1389,St Peter's,1397,Tennessee
+52,401638592,3/21/24,2377,McNeese Cowboys,2250,Bulldogs,Gonzaga Bulldogs,65,86,1270,McNeese St,1211,Gonzaga
+53,401638595,3/21/24,2571,South Dakota State Jackrabbits,66,Cyclones,Iowa State Cyclones,65,82,1355,S Dakota St,1235,Iowa St
+54,401638593,3/21/24,2473,Oakland Golden Grizzlies,96,Wildcats,Kentucky Wildcats,80,76,1324,Oakland,1246,Kentucky
+55,401638588,3/21/24,36,Colorado State Rams,251,Longhorns,Texas Longhorns,44,56,1161,Colorado St,1400,Texas
+56,401638584,3/21/24,2440,Nevada Wolf Pack,2168,Flyers,Dayton Flyers,60,63,1305,Nevada,1173,Dayton
+57,401638590,3/21/24,2483,Oregon Ducks,2579,Gamecocks,South Carolina Gamecocks,87,73,1332,Oregon,1376,South Carolina
+58,401638597,3/21/24,2413,Morehead State Eagles,356,Fighting Illini,Illinois Fighting Illini,69,85,1287,Morehead St,1228,Illinois
+59,401638586,3/21/24,2681,Wagner Seahawks,153,Tar Heels,North Carolina Tar Heels,62,90,1447,Wagner,1314,North Carolina
+60,401638583,3/21/24,299,Long Beach State Beach,12,Wildcats,Arizona Wildcats,65,85,1253,Long Beach St,1112,Arizona
+61,401638589,3/21/24,2006,Akron Zips,156,Bluejays,Creighton Bluejays,60,77,1103,Akron,1166,Creighton
+62,401638598,3/21/24,2184,Duquesne Dukes,252,Cougars,BYU Cougars,71,67,1182,Duquesne,1140,BYU
+63,401638585,3/21/24,127,Michigan State Spartans,344,Bulldogs,Mississippi State Bulldogs,69,51,1277,Michigan St,1280,Mississippi St
