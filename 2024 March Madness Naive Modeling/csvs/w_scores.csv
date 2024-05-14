@@ -1,0 +1,64 @@
+,game_id,game_date,team_id,team_display_name,opponent_team_id,opponent_team_name,opponent_team_display_name,team_score,opponent_team_score,OG_TeamID,OG_TeamName,opponent_TeamID,opponent_TeamName
+1,401637543,3/22/24,2181,Drake Bulldogs,38,Buffaloes,Colorado Buffaloes,72,86,3179,Drake,3160,Colorado
+2,401637544,3/22/24,2501,Portland Pilots,2306,Wildcats,Kansas State Wildcats,65,78,3339,Portland,3243,Kansas St
+3,401637545,3/22/24,257,Richmond Spiders,150,Blue Devils,Duke Blue Devils,61,72,3350,Richmond,3181,Duke
+4,401637546,3/22/24,245,Texas A&M Aggies,158,Cornhuskers,Nebraska Cornhuskers,59,61,3401,Texas A&M,3304,Nebraska
+5,401637547,3/22/24,331,Eastern Washington Eagles,204,Beavers,Oregon State Beavers,51,73,3186,E Washington,3333,Oregon St
+6,401637548,3/22/24,238,Vanderbilt Commodores,239,Bears,Baylor Bears,63,80,3435,Vanderbilt,3124,Baylor
+7,401637549,3/22/24,2182,Drexel Dragons,251,Longhorns,Texas Longhorns,42,82,3180,Drexel,3400,Texas
+8,401637550,3/22/24,2450,Norfolk State Spartans,24,Cardinal,Stanford Cardinal,50,79,3313,Norfolk St,3390,Stanford
+9,401637551,3/22/24,120,Maryland Terrapins,66,Cyclones,Iowa State Cyclones,86,93,3268,Maryland,3235,Iowa St
+10,401637552,3/22/24,52,Florida State Seminoles,333,Crimson Tide,Alabama Crimson Tide,74,82,3199,Florida St,3104,Alabama
+11,401637553,3/22/24,276,Marshall Thundering Herd,259,Hokies,Virginia Tech Hokies,49,92,3267,Marshall,3439,Virginia Tech
+12,401637554,3/22/24,2393,Middle Tennessee Blue Raiders,97,Cardinals,Louisville Cardinals,71,69,3292,MTSU,3257,Louisville
+13,401637555,3/22/24,127,Michigan State Spartans,153,Tar Heels,North Carolina Tar Heels,56,59,3277,Michigan St,3314,North Carolina
+14,401637556,3/22/24,242,Rice Owls,99,Tigers,LSU Tigers,60,70,3349,Rice,3261,LSU
+15,401637557,3/22/24,2506,Presbyterian Blue Hose,2579,Gamecocks,South Carolina Gamecocks,39,91,3342,Presbyterian,3376,South Carolina
+16,401637558,3/22/24,311,Maine Black Bears,194,Buckeyes,Ohio State Buckeyes,57,80,3263,Maine,3326,Ohio St
+17,401637559,3/23/24,2439,UNLV Lady Rebels,156,Bluejays,Creighton Bluejays,73,87,3424,UNLV,3166,Creighton
+18,401637560,3/23/24,526,Florida Gulf Coast Eagles,201,Sooners,Oklahoma Sooners,70,73,3195,FL Gulf Coast,3328,Oklahoma
+19,401637561,3/23/24,130,Michigan Wolverines,2305,Jayhawks,Kansas Jayhawks,72,81,3276,Michigan,3242,Kansas
+20,401637562,3/23/24,2571,South Dakota State Jackrabbits,254,Utes,Utah Utes,54,68,3355,S Dakota St,3428,Utah
+21,401637563,3/23/24,269,Marquette Golden Eagles,145,Rebels,Ole Miss Rebels,55,67,3266,Marquette,3279,Mississippi
+22,401637564,3/23/24,236,Chattanooga Mocs,152,Wolfpack,NC State Wolfpack,45,64,3151,Chattanooga,3301,NC State
+23,401637565,3/23/24,2856,California Baptist Lancers,26,Bruins,UCLA Bruins,55,84,3465,Cal Baptist,3417,UCLA
+24,401637566,3/23/24,300,UC Irvine Anteaters,2250,Bulldogs,Gonzaga Bulldogs,56,75,3414,UC Irvine,3211,Gonzaga
+25,401637567,3/23/24,163,Princeton Tigers,277,Mountaineers,West Virginia Mountaineers,53,63,3343,Princeton,3452,West Virginia
+26,401637568,3/23/24,12,Arizona Wildcats,183,Orange,Syracuse Orange,69,74,3112,Arizona,3393,Syracuse
+27,401637569,3/23/24,2217,Fairfield Stags,84,Hoosiers,Indiana Hoosiers,56,89,3193,Fairfield,3231,Indiana
+28,401637570,3/23/24,357,Texas A&M-Corpus Christi Islanders,30,Trojans,USC Trojans,55,87,3394,TAM C. Christi,3425,USC
+29,401637571,3/23/24,2309,Kent State Golden Flashes,87,Fighting Irish,Notre Dame Fighting Irish,67,81,3245,Kent,3323,Notre Dame
+30,401637572,3/23/24,2739,Green Bay Phoenix,2633,Lady Volunteers,Tennessee Lady Volunteers,63,92,3453,WI Green Bay,3397,Tennessee
+31,401637573,3/23/24,107,Holy Cross Crusaders,2294,Hawkeyes,Iowa Hawkeyes,65,91,3221,Holy Cross,3234,Iowa
+32,401637574,3/23/24,2296,Jackson State Lady Tigers,41,Huskies,UConn Huskies,64,86,3238,Jackson St,3163,Connecticut
+33,401637575,3/24/24,333,Alabama Crimson Tide,251,Longhorns,Texas Longhorns,54,65,3104,Alabama,3400,Texas
+34,401637576,3/24/24,66,Iowa State Cyclones,24,Cardinal,Stanford Cardinal,81,87,3235,Iowa St,3390,Stanford
+35,401637577,3/24/24,150,Duke Blue Devils,194,Buckeyes,Ohio State Buckeyes,75,63,3181,Duke,3326,Ohio St
+36,401637578,3/24/24,239,Baylor Bears,259,Hokies,Virginia Tech Hokies,75,72,3124,Baylor,3439,Virginia Tech
+37,401637579,3/24/24,2393,Middle Tennessee Blue Raiders,99,Tigers,LSU Tigers,56,83,3292,MTSU,3261,LSU
+38,401637580,3/24/24,38,Colorado Buffaloes,2306,Wildcats,Kansas State Wildcats,63,50,3160,Colorado,3243,Kansas St
+39,401637581,3/24/24,158,Nebraska Cornhuskers,204,Beavers,Oregon State Beavers,51,61,3304,Nebraska,3333,Oregon St
+40,401637582,3/24/24,153,North Carolina Tar Heels,2579,Gamecocks,South Carolina Gamecocks,41,88,3314,North Carolina,3376,South Carolina
+41,401637583,3/25/24,254,Utah Utes,2250,Bulldogs,Gonzaga Bulldogs,66,77,3428,Utah,3211,Gonzaga
+42,401637584,3/25/24,2633,Tennessee Lady Volunteers,152,Wolfpack,NC State Wolfpack,72,79,3397,Tennessee,3301,NC State
+43,401637585,3/25/24,183,Syracuse Orange,41,Huskies,UConn Huskies,64,72,3393,Syracuse,3376,Connecticut
+44,401637586,3/25/24,2305,Kansas Jayhawks,30,Trojans,USC Trojans,55,73,3242,Kansas,3425,USC
+45,401637587,3/25/24,156,Creighton Bluejays,26,Bruins,UCLA Bruins,63,67,3166,Creighton,3417,UCLA
+46,401637588,3/25/24,277,West Virginia Mountaineers,2294,Hawkeyes,Iowa Hawkeyes,54,64,3452,West Virginia,3234,Iowa
+47,401637589,3/25/24,145,Ole Miss Rebels,87,Fighting Irish,Notre Dame Fighting Irish,56,71,3279,Mississippi,3323,Notre Dame
+48,401637590,3/25/24,201,Oklahoma Sooners,84,Hoosiers,Indiana Hoosiers,68,75,3328,Oklahoma,3231,Indiana
+49,401637599,3/29/24,152,NC State Wolfpack,24,Cardinal,Stanford Cardinal,77,67,3301,NC State,3390,Stanford
+50,401637600,3/29/24,2250,Gonzaga Bulldogs,251,Longhorns,Texas Longhorns,47,69,3211,Gonzaga,3400,Texas
+51,401637601,3/29/24,204,Oregon State Beavers,87,Fighting Irish,Notre Dame Fighting Irish,70,65,3333,Oregon St,3323,Notre Dame
+52,401637602,3/29/24,84,Indiana Hoosiers,2579,Gamecocks,South Carolina Gamecocks,75,79,3231,Indiana,3376,South Carolina
+53,401637603,3/30/24,239,Baylor Bears,30,Trojans,USC Trojans,70,74,3124,Baylor,3425,USC
+54,401637604,3/30/24,150,Duke Blue Devils,41,Huskies,UConn Huskies,45,53,3181,Duke,3163,Connecticut
+55,401637605,3/30/24,99,LSU Tigers,26,Bruins,UCLA Bruins,78,69,3261,LSU,3417,UCLA
+56,401637606,3/30/24,38,Colorado Buffaloes,2294,Hawkeyes,Iowa Hawkeyes,68,89,3160,Colorado,3234,Iowa
+57,401637607,3/31/24,152,NC State Wolfpack,251,Longhorns,Texas Longhorns,76,66,3301,NC State,3400,Texas
+58,401637608,3/31/24,204,Oregon State Beavers,2579,Gamecocks,South Carolina Gamecocks,58,70,3333,Oregon St,3376,South Carolina
+59,401637609,4/1/24,41,UConn Huskies,30,Trojans,USC Trojans,80,73,3163,Connecticut,3425,USC
+60,401637610,4/1/24,99,LSU Tigers,2294,Hawkeyes,Iowa Hawkeyes,87,94,3261,LSU,3234,Iowa
+61,401637611,4/5/24,152,NC State Wolfpack,2579,Gamecocks,South Carolina Gamecocks,59,78,3301,NC State,3376,South Carolina
+62,401637612,4/5/24,41,UConn Huskies,2294,Hawkeyes,Iowa Hawkeyes,69,71,3163,Connecticut,3234,Iowa
+63,401637613,4/7/24,2294,Iowa Hawkeyes,2579,Gamecocks,South Carolina Gamecocks,75,87,3235,Iowa St,3376,South Carolina
